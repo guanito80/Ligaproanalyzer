@@ -1,0 +1,10 @@
+{
+  "name": "Liga Pro Analyzer",
+  "short_name": "Liga Pro",
+  "start_url": "./Liga_Pro_Analyzer_V44_PWA_STABLE.html",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "orientation": "portrait",
+  "description": "Czech Liga Pro · Vincente Match · Best of 5"
+}
